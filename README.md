@@ -1,1 +1,2 @@
-# Three-Js-Editor
+# Three JS Editor
+### <span style="color:orange">I am NOT the creator of Three JS!</span> I took the scource of *[Three JS](https://github.com/mrdoob/three.js)* and localized the editor. I then added dependencies(Orbit controls, etc.) to the scource, I will leave the scipt code below, one I am done.
